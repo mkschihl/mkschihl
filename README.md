@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mkschihl
-- 👀 I’m interested in everything (almsost).
+- 👀 I’m interested in everything (almost).
 - 🌱 I’m currently learning github.
-- 💞️ I’m looking to collaborate on select project.
+- 💞️ I’m looking to collaborate on select projects.
 - 📫 How to reach me: michael dot schihl at gee mail dot calm
 
 <!---
